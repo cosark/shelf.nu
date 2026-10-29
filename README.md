@@ -145,6 +145,10 @@ Community-maintained Docker support is available for self-hosting. Requires an e
 
 See the [Docker guide](https://docs.shelf.nu/docker).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Shelf/)
+
 ## Documentation
 
 | Guide                                                        | Description                                  |
